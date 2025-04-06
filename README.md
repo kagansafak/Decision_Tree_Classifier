@@ -5,4 +5,5 @@
 - The model allows us to test it by changing many parameters. In this way, by trying different model scenarios, the necessary inferences can be made for each scenario.
 - In jupyter notebook there are sample outputs of codes for a single scenario. You can also find additional explanations as text.
 - Dataset Link : https://archive.ics.uci.edu/dataset/267/banknote+authentication
+
 - ** ⭐ Have fun ⭐ 🙂 **
